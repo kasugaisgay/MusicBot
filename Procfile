@@ -1,2 +1,1 @@
-worker: run.sh
-worker: python run.py
+web: npm start
