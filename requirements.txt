@@ -5,5 +5,3 @@ cffi==1.6.0; sys_platform == 'win32'
 aiohttp
 websockets
 chardet
-ffmpeg-binaries
-opusscript
